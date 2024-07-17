@@ -81,3 +81,5 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"submit2","qid":"2","text":"Sub
   
 JotForm.ownerView=true;
 JotForm.isNewSACL=true;
+
+/*INIT-END*/
